@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my mail id:saketh2513@gmail.com
+- my linkedin : https://www.linkedin.com/in/saketh2513/
+- 
 
 <!---
 saketh2513/saketh2513 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
